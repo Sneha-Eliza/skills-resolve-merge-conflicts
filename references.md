@@ -1,3 +1,2 @@
-# References
+This is for educatiobal purpose.
 
-* octocat 1 😈
